@@ -21,7 +21,6 @@
 #include "ram.h"
 #include "execute.h"
 
-
 //
 // main
 //
@@ -117,4 +116,5 @@ int main(int argc, char* argv[])
     fclose(input);
 
   return 0;
+
 }
